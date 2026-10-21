@@ -41,7 +41,7 @@ Gosto de unir criatividade, design e tecnologia para desenvolver interfaces e so
 <h2 align="center">✦ Minhas áreas</h2>
 
 <p align="center">
-  <img src="./minhas aresd.png
+  <img src="./minhas aresd.png"
        alt="Minhas áreas: Front-end, Banco de Dados, UI/UX Design e Ferramentas"
        width="100%">
 </p>
