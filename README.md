@@ -38,32 +38,14 @@ Gosto de unir criatividade, design e tecnologia para desenvolver interfaces e so
 ---
 
 
-## ✦ Minhas áreas
+<h2 align="center">✦ Minhas áreas</h2>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/FRONT--END-D93636?style=for-the-badge&logoColor=white" alt="Front-end">
-  <img src="https://img.shields.io/badge/BANCO_DE_DADOS-F2C230?style=for-the-badge&labelColor=F2C230&color=F2C230" alt="Banco de dados">
+  <img src="<img width="1774" height="887" alt="image" src="https://github.com/user-attachments/assets/c5a38525-d862-4d5e-9391-e6fd218fe63e" />
+.png"
+       alt="Minhas áreas: Front-end, Banco de Dados, UI/UX Design e Ferramentas"
+       width="100%">
 </p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/HTML5-171717?style=flat-square&logo=html5&logoColor=E34F26" alt="HTML5">
-  <img src="https://img.shields.io/badge/CSS3-171717?style=flat-square&logo=css3&logoColor=1572B6" alt="CSS3">
-  <img src="https://img.shields.io/badge/JavaScript-171717?style=flat-square&logo=javascript&logoColor=F7DF1E" alt="JavaScript">
-  <img src="https://img.shields.io/badge/MySQL-171717?style=flat-square&logo=mysql&logoColor=4479A1" alt="MySQL">
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/UI%2FUX_DESIGN-171717?style=for-the-badge" alt="UI/UX Design">
-  <img src="https://img.shields.io/badge/FERRAMENTAS-D93636?style=for-the-badge" alt="Ferramentas">
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Figma-171717?style=flat-square&logo=figma&logoColor=F24E1E" alt="Figma">
-  <img src="https://img.shields.io/badge/Git-171717?style=flat-square&logo=git&logoColor=F05032" alt="Git">
-  <img src="https://img.shields.io/badge/GitHub-171717?style=flat-square&logo=github&logoColor=FFFFFF" alt="GitHub">
-  <img src="https://img.shields.io/badge/VS_Code-171717?style=flat-square&logo=visualstudiocode&logoColor=007ACC" alt="VS Code">
-</p>
-
 
 ## ✦ Projetos em destaque
 
