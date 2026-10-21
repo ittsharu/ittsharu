@@ -2,7 +2,7 @@
 
 <!-- BANNER -->
 <div align="center">
-  <img src="./Rute Cunhabannergit.png"
+  <img src="./Rute Cunha_bannergit.png"
        alt="Rute Cunha — Design, Tecnologia e Criatividade"
        width="100%">
 </div>
